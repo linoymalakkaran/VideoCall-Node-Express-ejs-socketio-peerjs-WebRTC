@@ -1,0 +1,8 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2665575e-f813-4979-9a43-2d42f2743cc9/resourceGroups/video-call-resource-group/providers/Microsoft.Web/sites/video-call"
+}
